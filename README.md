@@ -113,3 +113,32 @@ The model successfully predicts student scores using Simple Linear Regression an
 ## 👨‍💻 Author
 
 **Karthik**
+
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/karthikvankadaru0712-max/Student-Score-Prediction.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd Student-Score-Prediction
+```
+
+### 3. Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Open the notebook
+
+Open `Simple_Linear_Regression.ipynb` in **Google Colab** or **Jupyter Notebook**.
+
+### 5. Run all cells
+
+Execute all cells to train the model, generate predictions, and view the evaluation metrics and visualizations.
